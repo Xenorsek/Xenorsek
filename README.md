@@ -4,9 +4,9 @@ I'm a passionate software developer with expertise in .Net, React and Unity.
 
 🌱 I'm currently learning Game developing.
 
-## My GitHub Stats
+[## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xenorsek&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xenorsek&show_icons=true)](url)
 
 ## Top Languages
 
