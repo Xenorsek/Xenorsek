@@ -31,6 +31,6 @@ I've been working in the software industry for over two years, with a primary fo
 
 ## Portfolio
 
-Explore my portfolio and see more of my work on [GitHub Pages](https://xenorsek.github.io/).
+Explore my portfolio and see more of my work on [Portfolio](https://xenorsek.github.io/).
 
 Thanks for visiting my profile! Let's connect and collaborate.
