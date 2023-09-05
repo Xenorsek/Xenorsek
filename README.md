@@ -6,16 +6,16 @@ I'm a passionate software developer with expertise in .Net, React and Unity.
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xenorsek&show_icons=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenorsek)
 
 ## My Projects
 
-- [Project 1](https://github.com/YourGitHubUsername/Project1)
-- [Project 2](https://github.com/YourGitHubUsername/Project2)
-- [Project 3](https://github.com/YourGitHubUsername/Project3)
+- [Delivery Driver](https://github.com/Xenorsek/DeliveryDriver)
+- [Portfolio](https://github.com/Xenorsek/xenorsek.github.io)
+- [Thesis](https://github.com/Xenorsek/PracowniaDyplomowa)
 
 Thanks for visiting my profile! Let's connect and collaborate.
