@@ -1,15 +1,8 @@
-# Hello, I'm Your Name! 👋
+# Hello! 👋
 
-I'm a passionate software developer with expertise in [Your Technologies] and a strong focus on [Your Interests].
+I'm a passionate software developer with expertise in .Net, React and Unity.
 
-🌱 I'm currently learning [What You're Learning].
-🤔 I'm looking for help with [What You Need Help With].
-💬 Ask me about [Anything You Want to Talk About].
-
-## Connect with Me
-
-[![GitHub](https://img.shields.io/github/followers/YourGitHubUsername?style=social)](https://github.com/YourGitHubUsername)
-[![Twitter](https://img.shields.io/twitter/follow/YourTwitterUsername?style=social)](https://twitter.com/YourTwitterUsername)
+🌱 I'm currently learning Game developing.
 
 ## My GitHub Stats
 
