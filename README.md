@@ -29,4 +29,8 @@ I've been working in the software industry for over two years, with a primary fo
 - [Portfolio](https://github.com/Xenorsek/xenorsek.github.io)
 - [Thesis](https://github.com/Xenorsek/PracowniaDyplomowa)
 
+## Portfolio
+
+Explore my portfolio and see more of my work on [GitHub Pages](https://xenorsek.github.io/).
+
 Thanks for visiting my profile! Let's connect and collaborate.
