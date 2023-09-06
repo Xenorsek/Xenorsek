@@ -22,7 +22,7 @@ I've been working in the software industry for over two years, with a primary fo
 -->
 ## Top Languages
 **Technology Stack**: ASP.NET, React, C#, SQL Server, User Authentication, Data Integration, Access Control
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenorsek&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenorsek&theme=dark)
 
 ## My Projects
 
