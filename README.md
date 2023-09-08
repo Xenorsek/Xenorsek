@@ -28,7 +28,7 @@ I've been working in the software industry for over two years, with a primary fo
 
 - [Delivery Driver](https://github.com/Xenorsek/DeliveryDriver)
 - [Portfolio](https://github.com/Xenorsek/xenorsek.github.io)
-- [Thesis](https://github.com/Xenorsek/PracowniaDyplomowa)
+- [Thesis](https://music-converter-6012d.firebaseapp.com/)
 
 ## Portfolio
 
