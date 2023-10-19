@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm a passionate software developer with expertise in .NET with React and a strong focus on building scalable solutions. I'm professionaly working with .NET technologies since 2021.
+I'm a passionate software developer with expertise in .NET with React and a strong focus on building scalable solutions. I'm professionaly working with .NET technologies since 2020.
 In free time I'm experimenting with stable diffusion and learning game developing in Unity. 
 
 🌱 I'm currently learning Game developing.
